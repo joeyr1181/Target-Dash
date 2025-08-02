@@ -28,6 +28,14 @@ The game tracks your score and high score, and includes polished UI screens for 
 
 ---
 
+## Project Structure
+
+Scripts — player movement, shooting, game manager  
+Prefabs — targets and UI elements  
+Scenes — main gameplay scene  
+Audio — sound effects and music
+
+
 ## How to Run (for Developers)
 
 1. Clone this repository  
