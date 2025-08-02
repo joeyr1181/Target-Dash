@@ -28,14 +28,21 @@ The game tracks your score and high score, and includes polished UI screens for 
 
 ---
 
-## How to Run
+## How to Run (for Developers)
 
 1. Clone this repository  
-2. Open the project in Unity (recommended Unity version: [specify your Unity version])  
+2. Open the project in Unity (recommended Unity version: 6000.0.28f1)  
 3. Press Play in the Unity Editor  
 4. Use the start menu to choose a time mode and begin playing  
 
 ---
+
+## Download & Play (for Players/Reviewers)
+
+> [Download Target Dash Build (Windows)](https://github.com/your-username/TargetDash/releases/latest)
+
+> No install needed — unzip and run `Target Dash.exe`
+
 
 ## Notes
 
